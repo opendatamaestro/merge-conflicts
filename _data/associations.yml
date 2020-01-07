@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Atlants's ConnectHome
-  role: Volunteer
-  year: 2016 &mdash; Present
-  url: http://connecthome.atlantaga.gov/
-  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
+- organization: Project Management Institute
+  role: Project Management Professional
+  year: 2013 &mdash; Present | Certification Number: 1601525:
+  url: https://www.pmi.org/
+  summary: Developed and delivered Project management expertise to parent companies.
 
 
-- organization: freeCodeCamp
-  role: Contributor
-  year: 2015 &mdash; Present
-  url: https://www.freecodecamp.org/
-  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
+- organization: Military Officers of America Association
+  role: Member
+  year: 2013 &mdash; Present
+  url: https://www.moaa.org/
+  summary: Conttinue supporting active duty and veterans.
